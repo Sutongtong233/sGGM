@@ -6,7 +6,7 @@ Implementation of FST algorithm in ..
 
 ### Method
 
-linear programming:
+linear programming problem:
 $$
 \underset{\mathbf{u}_{j}, \theta}{\operatorname{argmin}} \sum_{j=1}^{(K+1) p} \mathbf{u}_{j}
 \\s.t.
@@ -21,7 +21,7 @@ $$
 \end{aligned}
 $$
 
-
+Use **pulp** to solve the LP problem.
 
 ### Simulated dataset
 

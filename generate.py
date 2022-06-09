@@ -74,5 +74,5 @@ def generate_multi_graph(n, p, K, delta):
     
 
 if __name__ == "__main__":
-    prec_ls, X_ls = generate_multi_graph(5, 5, 0.1)
+    prec_ls, X_ls = generate_multi_graph(10, 5, 2, 0.1)
 
