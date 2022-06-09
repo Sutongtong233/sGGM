@@ -12,9 +12,7 @@ run `python ./main/FST.py`
 linear programming problem:
 $$
 \underset{\mathbf{u}_{j}, \theta}{\operatorname{argmin}} \sum_{j=1}^{(K+1) p} \mathbf{u}_{j}
-$$
 
-$$
 \begin{aligned}
 &-\theta_{j} \leq \mathbf{u}_{j}, \quad j=1, \ldots,(K+1) p \\
 &\theta_{j} \leq \mathbf{u}_{j}, \quad j=1, \ldots,(K+1) p \\
