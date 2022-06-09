@@ -1,7 +1,7 @@
 # sGGM
 ## FST
 Implementation of FST algorithm in [FST-IJCAI2020]([地址](https://www.ijcai.org/Proceedings/2020/0410.pdf) "FST-IJCAI2020")
-
+run `python ./main/FST.py`
 # SIMULE
 
 ### Method
