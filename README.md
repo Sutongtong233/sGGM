@@ -11,7 +11,7 @@ run `python ./main/FST.py`
 
 linear programming problem:
 $$
-\underset{\mathbf{u}_{j}, \theta}{\operatorname{argmin}} \sum_{j=1}^{(K+1) p} \mathbf{u}_{j}
+\sum_{j=1}^{(K+1) p} \mathbf{u}_{j}
 $$
 
 
