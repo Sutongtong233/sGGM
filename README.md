@@ -10,6 +10,7 @@ run `python ./main/FST.py`
 ### Method
 
 linear programming problem:
+
 $$
 \sum_{j=1}^{(K+1) p} \mathbf{u}_{j}
 $$
